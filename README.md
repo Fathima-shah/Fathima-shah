@@ -9,9 +9,8 @@ I focus on **Azure, Linux, Virtualization, Networking**, and **Power BI**, deliv
 
 ## 🛠 Skills
 - **Cloud & Virtualization:** Microsoft Azure (VMs, Storage, Networking, Security), Azure Blob Storage, Azure Load Balancer, Azure Bastion  
-- **Operating Systems:** Linux (Ubuntu, CentOS), Windows Server  
+- **Operating Systems:** Linux (Ubuntu), Windows Server  
 - **Networking & Security:** TCP/IP, VPN, Firewalls, Secure Network Architecture  
-- **Tools & Scripting:** PowerShell, Azure CLI, Bash, Git/GitHub  
 - **Data & Visualization:** Power BI, Data Analysis  
 
 ---
@@ -36,7 +35,7 @@ I focus on **Azure, Linux, Virtualization, Networking**, and **Power BI**, deliv
 ---
 
 ## 📫 Contact Me
-- **LinkedIn:** [Fathima Shahana](www.linkedin.com/in/fathima-shahana-048750253)  
+- **LinkedIn:** [Fathima Shahana](https://www.linkedin.com/in/fathima-shahana-048750253)  
 - **Email:** [fathimashahana480@gmail.com](fathimashahana480@gmail.com)  
 
 ---
