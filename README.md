@@ -22,6 +22,7 @@ I focus on **Azure, Linux, Virtualization, Networking**, and **Power BI**, deliv
 | [Secure Azure Virtual Network Multi-Tier App](https://github.com/Fathima-shah/secure_azure_virtual_network_multi_tier_application) | Multi-tier app with secure subnet design, NSGs, and network isolation. |
 | [Web Application Using Load Balancer](https://github.com/Fathima-shah/web_application_using_load_balancer) | Scalable web app deployment with load balancing and high availability. |
 | [Azure Linux Website Deployment](https://github.com/Fathima-shah/azure-linux-website-yusuiba) | Linux-based web app hosting on Azure with automated deployment and monitoring. |
+| [Configure VM Machines to Share Files using File Sharing](https://github.com/Fathima-shah/configure-vm-machines-to-share-files-file-sharing) | Secure File Sharing Between Azure Virtual Machines Using SMB & File Share. |
 
 *More projects coming soon… stay tuned! *
 
