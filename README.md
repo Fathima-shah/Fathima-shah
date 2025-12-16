@@ -23,6 +23,13 @@ I focus on **Azure, Linux, Virtualization, Networking**, and **Power BI**, deliv
 | [Web Application Using Load Balancer](https://github.com/Fathima-shah/web_application_using_load_balancer) | Scalable web app deployment with load balancing and high availability. |
 | [Azure Linux Website Deployment](https://github.com/Fathima-shah/azure-linux-website-yusuiba) | Linux-based web app hosting on Azure with automated deployment and monitoring. |
 | [Configure VM Machines to Share Files using File Sharing](https://github.com/Fathima-shah/configure-vm-machines-to-share-files-file-sharing) | Secure File Sharing Between Azure Virtual Machines Using SMB & File Share. |
+| [Cloud based File sharing system](https://github.com/Fathima-shah/cloud-based-file-sharing-system) | Cloud-based file sharing using Azure File Share with secure access through Azure portal and Storage Explorer. Includes storage account setup, file upload, and connection via access keys.|
+| [Azure Bastion to access VMs](https://github.com/Fathima-shah/Azure-bastion-to-access-vms) | Secure VM access using Azure Bastion without public IPs. Demonstrates VNet setup, Bastion deployment, and browser-based RDP/SSH access. |
+| [Configure and Verify communication between VMs using Private IPs](https://github.com/Fathima-shah/configure-verify-communication-between-vms-using-private-IPs) | Deploy an Azure Virtual Network (VNet) with two virtual machines placed in separate subnets and verify secure communication using private IPs. Includes VNet setup, VM deployment, subnet isolation, and connectivity testing. |
+| [Jump Server to access VMs securely](https://github.com/Fathima-shah/jump-serverver-access-VMs-securely) | Azure Jump Server deployment demonstrating secure gateway-based access to private VMs using subnet isolation and RDP. |
+| [Azure VMs Autoscaling Load balancer](https://github.com/Fathima-shah/azure-vmss-autoscaling-loadbalancer) | Deploys an Azure Virtual Machine Scale Set with CPU-based autoscaling rules and an integrated Azure Load Balancer to provide scalable, high-availability compute infrastructure. |
+| [Azure File sync Hybrid Storage](https://github.com/Fathima-shah/azure-file-sync-hybrid-storage) | Hybrid file sharing solution using Azure File Sync to synchronize data between on-premises Windows servers and Azure File Share. |
+| [Azure Secure Storage Encryption](https://github.com/Fathima-shah/azure-secure-storage-encryption) | Secure Azure storage implementation with encryption, data disks, snapshots, and role-based access control. |
 
 *More projects coming soon… stay tuned! *
 
