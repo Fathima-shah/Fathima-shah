@@ -18,6 +18,7 @@ I focus on **Azure, Linux, Virtualization, Networking**, and **Power BI**, deliv
 ## Featured Projects
 | Project | Description |
 |---------|-------------|
+| [Secure Multi-Tier Cloud Infrastructure on Microsoft Azure](https://github.com/Fathima-shah/CloudInfrastructureProject) | Azure cloud infrastructure project showcasing networking, compute, security, monitoring, backup, RBAC, and ARM template deployment. |
 | [Cloud-Based File Storage System](https://github.com/Fathima-shah/cloud-based-file-storage-system) | Upload, view, and manage files using Azure Blob Storage and Storage Explorer. |
 | [Secure Azure Virtual Network Multi-Tier App](https://github.com/Fathima-shah/secure_azure_virtual_network_multi_tier_application) | Multi-tier app with secure subnet design, NSGs, and network isolation. |
 | [Web Application Using Load Balancer](https://github.com/Fathima-shah/web_application_using_load_balancer) | Scalable web app deployment with load balancing and high availability. |
